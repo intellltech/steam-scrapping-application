@@ -1,4 +1,4 @@
-# Item Seller Info Scraping application
+## Item Seller Info from [Steam Market](https://steamcommunity.com/market/) Scraping app
 ![Banner](https://github.com/intellltech/steam-scraping-application/blob/main/figures/a.png)
 
 ### requirements
