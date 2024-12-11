@@ -1,9 +1,5 @@
-# AvatarFinder + MarketFinder
-Specify the range of data to be scraped by specifying the Min Price and Max Price values.
-
-| <img src="./figures/a.png"  height=450 width=900> |
-| <img src="./figures/scrapinglist.png"  height=450 width=400> | <img src="./figures/profile.png" width=400 height=500> |
-| :---Scraping data whose price is between 30 and 100---: | :---Scraping data whose price is between 300 and 400---: |
+# Item Seller Info Scraping application
+![Banner](https://github.com/intellltech/steam-scraping-application/blob/main/figures/a.png)
 
 ### requirements
  - Python 3
