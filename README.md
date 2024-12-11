@@ -34,3 +34,6 @@ run `listingcollector.py`. it takes items from `listings.json`. you can re-gener
 #### web-server
 flask code is contained in `app.py` 
 
+## Help 📮
+- Discord: @intellltech
+- Telegram: @intellltech
